@@ -1,0 +1,6 @@
+﻿"Field","Purpose"
+"Implementation Identifier","Unique validated implementation reference"
+"Organization","Responsible implementing entity"
+"Validation Status","Pending, validated, expired, revoked"
+"Evidence Package","Supporting verification material"
+"Reference Version","Architecture version validated against"

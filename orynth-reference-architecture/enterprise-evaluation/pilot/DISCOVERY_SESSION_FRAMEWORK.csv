@@ -1,0 +1,5 @@
+﻿"Topic","Objective","Output"
+"Enterprise AI Landscape","Identify deployed AI systems and autonomous workflows","AI system inventory"
+"Execution Boundaries","Identify where AI actions create external effects","Execution map"
+"Governance Requirements","Identify authority, policy, evidence, and compliance needs","Governance requirements"
+"Pilot Candidate Selection","Choose bounded workflow for evaluation","Pilot scope"

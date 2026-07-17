@@ -1,0 +1,5 @@
+﻿"Component","Function","Source","Status"
+"Reference State View","Display current canonical architecture state","Reference State Registry","ACTIVE"
+"Implementation View","Display ecosystem implementation activity","Implementation Registry","ACTIVE"
+"Validation View","Display conformance and validation status","Validation Registry","ACTIVE"
+"Amendment View","Display architecture change activity","Amendment Registry","ACTIVE"

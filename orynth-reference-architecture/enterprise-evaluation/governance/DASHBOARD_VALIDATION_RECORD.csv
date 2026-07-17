@@ -1,0 +1,5 @@
+﻿"Component","Validation","Result"
+"Reference State Dashboard","Displays current maintained reference state","PASS"
+"Implementation Dashboard","Reflects ecosystem implementation records","PASS"
+"Validation Dashboard","Reflects conformance status","PASS"
+"Amendment Dashboard","Reflects controlled change activity","PASS"

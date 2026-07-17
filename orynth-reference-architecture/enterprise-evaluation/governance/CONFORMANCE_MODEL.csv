@@ -1,0 +1,5 @@
+﻿"Requirement","Validation","Category"
+"Authority Preservation","Implementation respects execution authority boundaries","Mandatory"
+"Execution Eligibility Validation","Actions evaluated before effectuation","Mandatory"
+"Evidence Preservation","Decisions remain reconstructable","Mandatory"
+"Revision Governance","Changes follow controlled amendment process","Mandatory"

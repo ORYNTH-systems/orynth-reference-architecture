@@ -1,0 +1,2 @@
+﻿"PilotObjective","Scope","Inputs","Outputs","SuccessCriteria","Duration","Status"
+"Validate execution integrity controls on selected AI workflow","Single agent + single business process","AI action requests, authorization context, evidence","Allow/deny decision, evidence record, reconstruction trace","Demonstrated execution-time validation","Defined with enterprise partner","TEMPLATE_READY"

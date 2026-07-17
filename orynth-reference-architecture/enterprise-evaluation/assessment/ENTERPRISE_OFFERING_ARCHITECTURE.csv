@@ -1,0 +1,5 @@
+﻿"OfferingLayer","Purpose","Delivery"
+"Reference Architecture","Provides execution integrity framework","Technical specifications and reference implementations"
+"Integration Layer","Connects governance framework to enterprise AI workflows","Architecture implementation"
+"Industry Adaptation","Maps governance requirements to domain needs","Healthcare, finance, insurance, government modules"
+"Operational Governance","Maintains deployed execution integrity","Monitoring, verification, amendment support"

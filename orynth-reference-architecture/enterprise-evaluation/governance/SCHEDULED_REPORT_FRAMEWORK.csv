@@ -1,0 +1,5 @@
+﻿"Report","Frequency","Purpose"
+"Reference State Report","Periodic","Confirm maintained architecture state"
+"Validation Activity Report","Periodic","Review implementation validation"
+"Amendment Status Report","Periodic","Track controlled evolution"
+"Ecosystem Health Report","Periodic","Review overall system condition"

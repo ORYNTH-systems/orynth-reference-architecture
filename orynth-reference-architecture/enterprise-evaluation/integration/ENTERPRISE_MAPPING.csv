@@ -1,0 +1,5 @@
+﻿"Domain","Risk","Integration","Governance"
+"AI Agents","Unauthorized autonomous action","Execution gateway","Admissibility validation"
+"Financial Systems","Invalid settlement execution","Transaction controls","Runtime verification"
+"Healthcare AI","Unsafe clinical action","Clinical workflow systems","Evidence-based execution"
+"Enterprise Automation","Agent authority drift","Enterprise APIs","Continuous authorization validation"

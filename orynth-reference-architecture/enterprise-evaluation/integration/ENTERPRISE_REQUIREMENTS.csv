@@ -1,0 +1,5 @@
+﻿"RequirementArea","Purpose","Source","Status"
+"AI System Inventory","Identify AI agents, models, workflows, and execution points","Pilot assessment","REQUIRED"
+"Authority Integration","Connect existing permissions, policies, and approval structures","Governance mapping","REQUIRED"
+"Evidence Infrastructure","Capture execution decisions and supporting evidence","Validation requirements","REQUIRED"
+"Runtime Integration","Place governance layer at execution boundary","Deployment architecture","REQUIRED"

@@ -1,0 +1,5 @@
+﻿"Element","Definition","Status"
+"AI Workflow","Specific autonomous process under evaluation","REQUIRED"
+"Execution Boundary","Point where action requires governance decision","REQUIRED"
+"Governance Rules","Authority, policy, dependency, temporal validation","REQUIRED"
+"Success Metrics","Validation and operational outcomes","REQUIRED"

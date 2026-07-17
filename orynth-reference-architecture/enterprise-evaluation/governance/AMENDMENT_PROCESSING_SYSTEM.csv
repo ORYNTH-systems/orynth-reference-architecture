@@ -1,0 +1,6 @@
+﻿"Stage","Purpose"
+"Submission","Capture proposed architecture modification"
+"Impact Analysis","Evaluate affected dependencies"
+"Verification","Test preservation of invariants"
+"Approval","Authorize controlled revision"
+"Publication","Create new maintained reference state"
