@@ -16,64 +16,60 @@ Constitutional Execution
 
 ## Reconstruction Objective
 
-Define the constitutional process by which a Morning Star verification state may be independently reproduced from recorded constitutional evidence, execution history, and verification criteria.
+Define the constitutional process by which any Morning Star verification state may be independently reproduced from recorded constitutional evidence.
 
 ---
 
 ## Required Reconstruction Inputs
 
-A constitutional verification state shall be reconstructable from:
+A constitutional verification event shall be reconstructable from:
 
 - execution identifier;
-- verification target identifier;
-- originating framework identifier;
-- constitutional authority reference;
-- evidence records;
-- evidence provenance;
+- verification target;
+- originating framework;
+- constitutional authority;
+- evidence sources;
 - evaluation records;
 - verification criteria;
-- dependency continuity records;
-- execution history;
-- verification result;
-- admissibility state.
+- dependency state;
+- provenance chain;
+- verification result.
 
 ---
 
 ## Reconstruction Sequence
 
-1. Identify the verification target.
-2. Verify originating constitutional framework.
-3. Restore execution history.
+1. Identify verification target.
+2. Restore originating framework context.
+3. Restore prerequisite execution states.
 4. Restore evidence chain.
-5. Restore evidence provenance.
-6. Restore evaluation records.
-7. Restore verification criteria.
-8. Verify dependency continuity.
-9. Verify semantic boundaries.
+5. Restore evaluation records.
+6. Restore verification criteria.
+7. Validate dependency continuity.
+8. Validate semantic integrity.
+9. Validate provenance preservation.
 10. Execute verification procedure.
-11. Generate reconstructed verification state.
-12. Compare reconstructed state against original execution evidence.
+11. Compare reconstructed result with recorded verification result.
 
 ---
 
 ## Reconstruction Equality
 
-A reconstruction succeeds when equivalent admitted inputs reproduce:
+A reconstruction succeeds when equivalent inputs produce:
 
-- identical verification state;
+- identical verification criteria;
 - identical evidence relationships;
-- identical criteria application;
+- identical dependency state;
 - identical provenance chain;
-- identical continuity assessment;
-- identical admissibility outcome.
+- identical verification outcome.
 
 Formally:
 
-Rc(V₁) = Rc(V₂)
+Rc(V₁)=Rc(V₂)
 
 when:
 
-Inputs(V₁) = Inputs(V₂)
+Inputs(V₁)=Inputs(V₂)
 
 and all constitutional constraints remain satisfied.
 
@@ -83,14 +79,12 @@ and all constitutional constraints remain satisfied.
 
 Reconstruction fails when:
 
-- verification target is ambiguous;
-- evidence cannot be restored;
+- evidence is unavailable;
+- criteria are ambiguous;
 - provenance is incomplete;
-- execution history is missing;
-- criteria cannot be resolved;
-- dependencies cannot be verified;
-- semantic boundaries are unclear;
-- verification results differ materially.
+- dependencies are unresolved;
+- verification reasoning cannot be reproduced;
+- result differs materially.
 
 ---
 
@@ -98,15 +92,14 @@ Reconstruction fails when:
 
 An independent observer shall not require:
 
-- undocumented assumptions;
-- private interpretation;
-- unavailable execution state;
+- undocumented interpretation;
 - hidden evidence;
+- private assumptions;
 - implied authority;
-- unrecorded framework relationships.
+- unavailable execution state.
 
 ---
 
 ## Constitutional Reconstruction Invariant
 
-Every constitutionally admissible verification state shall be reproducible from recorded evidence while preserving framework identity, evidence integrity, provenance, semantic integrity, dependency continuity, execution history, and constitutional independence.
+Every constitutionally admissible verification state shall be reproducible from recorded evidence while preserving identity, provenance, semantic integrity, dependency continuity, evidence integrity, and authority boundaries.

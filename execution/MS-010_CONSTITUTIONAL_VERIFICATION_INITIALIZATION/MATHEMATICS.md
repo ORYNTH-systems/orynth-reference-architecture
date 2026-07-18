@@ -18,9 +18,9 @@ Constitutional Execution
 
 Establish the constitutional mathematical relationships governing admissible verification within the Morning Star architecture.
 
-The mathematics describe integrity confirmation, continuity, and verification preservation.
+The mathematics describe integrity confirmation, continuity, evidence preservation, and verification admissibility.
 
-They do not replace or modify framework-specific mathematics.
+They do not replace or modify framework-specific scientific mathematics.
 
 ---
 
@@ -112,7 +112,7 @@ Then:
 
 Vc(t) ≤ Ev(t)
 
-Verification shall not confirm conditions unsupported by evidence.
+Verification shall not confirm conditions unsupported by available evidence.
 
 ---
 
@@ -130,13 +130,14 @@ An admissible verification requires:
 
 cᵢ remains:
 
-- defined;
+- explicitly defined;
 - traceable;
-- consistently applied.
+- consistently applied;
+- independently reviewable.
 
 ---
 
-## Continuity Preservation
+## Dependency Continuity Constraint
 
 Let:
 
@@ -144,7 +145,7 @@ D(t)
 
 represent dependency continuity.
 
-A verification transition is admissible only when:
+A verification state is admissible only when:
 
 D(t)=1
 
@@ -166,11 +167,23 @@ It shall never decrease provenance completeness.
 
 ## Identity Preservation
 
-For every framework f:
+For every admitted framework f:
 
 I(f,t₁)=I(f,t₂)
 
-Verification shall not modify constitutional identity.
+Verification confirms identity.
+
+It does not alter identity.
+
+---
+
+## Semantic Preservation
+
+For every verified concept c:
+
+S(c,t₁)=S(c,t₂)
+
+Verification preserves canonical meaning.
 
 ---
 
@@ -186,10 +199,27 @@ A valid reconstruction satisfies:
 
 Rc(V)=V
 
-when identical admitted constitutional inputs are provided.
+when identical admitted constitutional inputs, evidence, criteria, and dependencies are provided.
+
+---
+
+## Verification Boundary
+
+Verification validity requires:
+
+Evidence + Criteria + Provenance + Dependencies + Reconstruction
+
+without modification of:
+
+- framework authority;
+- mathematics;
+- evidence;
+- governance;
+- scientific conclusions;
+- constitutional identity.
 
 ---
 
 ## Constitutional Invariant
 
-Admissible verification exists only when evidence integrity, criteria integrity, provenance preservation, dependency continuity, semantic integrity, reconstruction completeness, context preservation, and constitutional identity preservation are simultaneously maintained.
+Admissible verification exists only when integrity confirmation preserves evidence integrity, provenance, semantic integrity, dependency continuity, reconstruction completeness, and constitutional identity.

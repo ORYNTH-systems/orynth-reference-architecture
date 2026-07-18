@@ -46,31 +46,31 @@ The following constitutional states must exist before verification begins:
 
 Step 01
 
-Identify the verification target.
+Identify verification target.
 
 ---
 
 Step 02
 
-Restore constitutional execution history.
+Restore constitutional context.
 
 ---
 
 Step 03
 
-Verify originating framework identity.
+Verify prerequisite execution states.
 
 ---
 
 Step 04
 
-Restore evidence chains.
+Resolve evidence chain.
 
 ---
 
 Step 05
 
-Verify provenance continuity.
+Validate provenance.
 
 ---
 
@@ -88,29 +88,23 @@ Confirm dependency continuity.
 
 Step 08
 
-Verify semantic boundaries.
+Execute verification procedure.
 
 ---
 
 Step 09
 
-Execute constitutional verification procedure.
+Generate verification state.
 
 ---
 
 Step 10
 
-Generate verification state.
-
----
-
-Step 11
-
 Verify deterministic reconstruction.
 
 ---
 
-Step 12
+Step 11
 
 Admit constitutional verification result.
 
@@ -121,9 +115,10 @@ Admit constitutional verification result.
 Successful execution produces:
 
 - verified constitutional state;
-- evidence continuity record;
-- provenance verification record;
-- dependency continuity confirmation;
+- evidence integrity record;
+- criteria traceability record;
+- provenance chain;
+- dependency confirmation;
 - reconstruction evidence;
 - constitutional verification record.
 
@@ -136,8 +131,7 @@ The reference execution remains:
 - deterministic;
 - reproducible;
 - auditable;
-- evidence-bounded;
-- continuity-preserving;
+- evidence bounded;
 - implementation independent;
 - constitutionally governed.
 
@@ -147,13 +141,12 @@ The reference execution remains:
 
 An alternative Constitutional Verification implementation is equivalent only when it preserves:
 
-- identical verification admissibility rules;
+- identical verification conditions;
 - identical evidence requirements;
+- identical criteria logic;
 - identical provenance requirements;
-- identical continuity requirements;
-- identical semantic boundaries;
 - identical reconstruction capability;
-- identical constitutional authority preservation.
+- identical authority boundaries.
 
 ---
 

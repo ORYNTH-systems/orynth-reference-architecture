@@ -16,132 +16,115 @@ Constitutional Execution
 
 ## Verification Objective
 
-Verify that the Morning Star Constitutional Verification Architecture confirms constitutional integrity, continuity, admissibility, and reconstruction while preserving constitutional identity, framework independence, provenance, semantic integrity, dependency ordering, evidence integrity, and authority boundaries.
+Verify that the Morning Star Constitutional Verification Architecture confirms constitutional integrity while preserving identity, authority boundaries, evidence integrity, provenance, semantic integrity, dependency continuity, and reconstruction capability.
 
 ---
 
-## Verification Condition 1 — Verification Target Integrity
+## Verification Condition 1 — Evidence Availability
 
 PASS when:
 
-- the verification target is explicitly identified;
-- the target framework or execution state is traceable;
-- verification scope is defined;
-- verification context is preserved.
+- verification evidence exists;
+- evidence sources are identified;
+- evidence relationships are preserved;
+- claims remain bounded by available evidence.
 
-FAIL when verification occurs against an undefined or ambiguous target.
-
----
-
-## Verification Condition 2 — Evidence Chain Integrity
-
-PASS when:
-
-- evidence sources are attributable;
-- evidence continuity is preserved;
-- evidence limitations are visible;
-- verification claims remain bounded by available evidence.
-
-FAIL when verification confirms unsupported conditions.
+FAIL when verification exceeds available evidence.
 
 ---
 
-## Verification Condition 3 — Criteria Integrity
+## Verification Condition 2 — Criteria Integrity
 
 PASS when:
 
 - verification criteria are explicit;
-- criteria remain traceable;
+- criteria are traceable;
 - criteria are consistently applied;
 - criteria remain constitutionally bounded.
 
-FAIL when criteria are hidden, altered, or inconsistently applied.
+FAIL when criteria are undefined, changing, or unsupported.
 
 ---
 
-## Verification Condition 4 — Provenance Preservation
+## Verification Condition 3 — Provenance Preservation
 
-PASS when every verification event preserves:
+PASS when every verification result remains attributable to:
 
 - originating framework;
-- constitutional authority;
-- evidence sources;
-- execution history;
-- verification criteria;
-- verification result.
+- originating authority;
+- source evidence;
+- evaluation records;
+- execution artifacts;
+- verification records.
 
-FAIL when provenance becomes incomplete, ambiguous, or unreconstructable.
-
----
-
-## Verification Condition 5 — Constitutional Continuity
-
-PASS when verification confirms continuity across:
-
-- constitutional initialization;
-- ontology;
-- navigation;
-- orientation;
-- discovery;
-- learning;
-- comprehension;
-- application;
-- evaluation.
-
-FAIL when execution continuity cannot be demonstrated.
+FAIL when provenance is incomplete or unreconstructable.
 
 ---
 
-## Verification Condition 6 — Semantic Integrity
+## Verification Condition 4 — Dependency Continuity
+
+PASS when:
+
+- predecessor executions are complete;
+- required dependencies remain satisfied;
+- verification ordering is preserved.
+
+FAIL when verification occurs without required constitutional prerequisites.
+
+---
+
+## Verification Condition 5 — Semantic Integrity
 
 PASS when verification preserves:
 
 - canonical terminology;
 - framework-specific meaning;
-- constitutional boundaries;
-- established relationships.
+- constitutional distinctions;
+- explicit boundaries.
 
-FAIL when verification modifies meaning or introduces unsupported equivalence.
+FAIL when verification introduces semantic alteration or unsupported equivalence.
 
 ---
 
-## Verification Condition 7 — Framework Independence
+## Verification Condition 6 — Framework Independence
 
-PASS when verification confirms integrity without modifying:
+PASS when verification confirms framework conditions without modifying:
 
 - framework authority;
 - framework identity;
 - framework governance;
-- scientific conclusions;
-- mathematical models.
+- framework mathematics.
 
 FAIL when verification becomes a mechanism of authority transfer.
 
 ---
 
-## Verification Condition 8 — Deterministic Verification
+## Verification Condition 7 — Deterministic Verification
 
-PASS when equivalent constitutional states, evidence chains, and criteria produce:
+PASS when equivalent:
 
-- identical verification states;
-- identical admissibility outcomes;
-- identical reconstruction results.
+- constitutional states;
+- evidence chains;
+- verification criteria;
+- dependency conditions
+
+produce identical verification outcomes.
 
 FAIL when equivalent inputs produce materially different results.
 
 ---
 
-## Verification Condition 9 — Reconstruction Completeness
+## Verification Condition 8 — Reconstruction Completeness
 
 PASS when an independent observer can reproduce verification using:
 
-- admitted evidence;
-- execution records;
-- verification criteria;
-- constitutional artifacts;
-- governing rules.
+- admitted artifacts;
+- evidence chains;
+- criteria definitions;
+- dependency records;
+- verification procedures.
 
-FAIL when hidden assumptions or unavailable information are required.
+FAIL when reconstruction requires hidden assumptions or unavailable information.
 
 ---
 
@@ -149,11 +132,10 @@ FAIL when hidden assumptions or unavailable information are required.
 
 | Condition | Required State |
 |---|---|
-| Verification target integrity | PASS |
-| Evidence chain integrity | PASS |
+| Evidence availability | PASS |
 | Criteria integrity | PASS |
 | Provenance preservation | PASS |
-| Constitutional continuity | PASS |
+| Dependency continuity | PASS |
 | Semantic integrity | PASS |
 | Framework independence | PASS |
 | Deterministic verification | PASS |
@@ -165,10 +147,12 @@ FAIL when hidden assumptions or unavailable information are required.
 
 MS-010 is VERIFIED only when every constitutional verification condition passes.
 
-Any failed or unresolved condition prevents final constitutional admission of the verification architecture.
+Any failed condition preserves the execution state as NOT VERIFIED and prevents constitutional admission.
 
 ---
 
 ## Constitutional Invariant
 
-Verification confirms that the Morning Star architecture preserves constitutional integrity across all admitted execution layers without creating authority over the originating frameworks.
+Verification confirms constitutional integrity.
+
+Verification does not create constitutional authority.

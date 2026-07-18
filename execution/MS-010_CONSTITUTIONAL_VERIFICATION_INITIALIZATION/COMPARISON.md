@@ -16,169 +16,114 @@ Constitutional Execution
 
 ## Comparison Objective
 
-Distinguish Constitutional Verification from prior Morning Star constitutional capabilities while preserving the authority, identity, and boundaries of each execution layer.
+Distinguish Constitutional Verification from prior Morning Star constitutional capabilities while preserving the role and boundary of each execution layer.
 
 ---
 
 ## Capability Comparison
 
-| Capability | Primary Function | Result |
+| Capability | Function | Output |
 |---|---|---|
-| Constitutional Initialization | Establish constitutional foundation | Admitted ecosystem basis |
-| Entry Ontology | Define ecosystem entry concepts | Canonical orientation vocabulary |
-| Constitutional Navigation | Govern movement through structures | Admissible progression |
-| Ecosystem Orientation | Establish ecosystem context | Relational understanding |
-| Framework Discovery | Establish framework visibility | Discoverable constitutional structures |
-| Constitutional Learning | Acquire governed knowledge | Admitted learning states |
-| Constitutional Comprehension | Integrate learned knowledge | Coherent understanding |
-| Constitutional Application | Utilize integrated understanding | Admissible practical use |
-| Constitutional Evaluation | Assess states and outcomes | Evidence-based evaluation |
-| Constitutional Verification | Confirm integrity and continuity | Verified constitutional state |
+| Initialization | Establish constitutional foundation | Admitted constitutional basis |
+| Ontology | Define entry concepts | Canonical vocabulary |
+| Navigation | Govern progression | Admissible movement |
+| Orientation | Establish context | Ecosystem understanding |
+| Discovery | Identify frameworks | Admitted framework visibility |
+| Learning | Acquire knowledge | Learning state |
+| Comprehension | Integrate relationships | Understanding state |
+| Application | Utilize understanding | Application state |
+| Evaluation | Assess conditions | Evaluation state |
+| Verification | Confirm integrity | Verified constitutional state |
 
 ---
 
 ## Evaluation Compared with Verification
 
-Constitutional Evaluation establishes:
+Evaluation determines:
 
-- assessed conditions;
-- evidence-based measurements;
-- evaluation outcomes;
-- state analysis.
+- assessed condition;
+- measured state;
+- outcome interpretation.
 
-Constitutional Verification establishes:
+Verification confirms:
 
-- confirmation of required conditions;
-- integrity assurance;
-- continuity validation;
-- final admissibility confirmation.
+- evidence sufficiency;
+- criteria satisfaction;
+- constitutional integrity;
+- reconstructability.
 
-Evaluation determines assessed state.
+Evaluation asks:
 
-Verification confirms constitutional integrity of that state.
+"What is the observed condition?"
+
+Verification asks:
+
+"Has the required condition been demonstrated?"
 
 ---
 
 ## Application Compared with Verification
 
-Constitutional Application establishes:
+Application governs:
 
-- governed utilization;
-- admissible expression;
-- contextual use of understanding.
+- utilization;
+- context;
+- practical expression.
 
-Constitutional Verification establishes:
+Verification governs:
 
-- confirmation that utilization preserved constitutional constraints.
+- confirmation;
+- evidence;
+- integrity.
 
-Application uses knowledge.
+Application creates operational expression.
 
-Verification confirms that use remained constitutionally valid.
-
----
-
-## Comprehension Compared with Verification
-
-Constitutional Comprehension establishes:
-
-- integrated understanding;
-- relational coherence;
-- preserved conceptual meaning.
-
-Constitutional Verification establishes:
-
-- confirmation that understanding pathways remained intact;
-- confirmation that execution history remains valid.
-
-Comprehension creates coherence.
-
-Verification confirms integrity.
-
----
-
-## Verification Compared with Judgment
-
-Constitutional Verification:
-
-- confirms;
-- validates;
-- traces;
-- reconstructs.
-
-Judgment may introduce:
-
-- preference;
-- authority;
-- decision-making;
-- external values.
-
-MS-010 does not create judgment authority.
+Verification confirms admissibility.
 
 ---
 
 ## Verification Compared with Authority
 
-Constitutional Verification may confirm:
+Verification confirms authority-preserving conditions.
 
-- whether requirements are satisfied;
-- whether evidence is complete;
-- whether continuity is preserved.
+It does not become authority.
 
-It shall not determine:
-
-- ownership;
-- framework authority;
-- scientific truth beyond evidence;
-- governance control.
+A verified framework remains governed by its originating constitutional authority.
 
 ---
 
-## Verification Compared with Framework Evolution
+## Verification Compared with Evolution
 
-Constitutional Verification observes and confirms framework continuity.
+Evolution governs structured change.
 
-Framework evolution modifies framework states.
+Verification governs confirmation of integrity before, during, or after governed transitions.
 
-Verification shall never:
-
-- amend frameworks;
-- revise mathematics;
-- alter evidence;
-- modify governance;
-- change constitutional identity.
+Verification does not initiate evolution.
 
 ---
 
 ## Constitutional Boundary
 
-MS-010 represents the confirmation layer following:
+MS-010 completes the confirmation layer of the Morning Star initiation architecture.
 
-- learning;
-- comprehension;
-- application;
-- evaluation.
+It does not:
 
-It governs final constitutional integrity confirmation.
-
-It does not govern:
-
-- framework modification;
-- scientific revision;
-- authority transfer;
-- constitutional amendment.
+- amend frameworks;
+- create authority;
+- modify mathematics;
+- alter evidence;
+- change governance.
 
 ---
 
 ## Final Comparative Finding
 
-Constitutional Verification is a distinct Morning Star capability.
-
-It cannot be reduced to evaluation, application, comprehension, learning, discovery, or navigation because it governs confirmation of constitutional integrity and continuity across the complete execution architecture.
+Constitutional Verification is a distinct capability governing confirmation of constitutional integrity through evidence, criteria, provenance, and reconstruction.
 
 ---
 
 ## Constitutional Invariant
 
-Verification confirms that constitutional processes remain intact.
+Verification confirms what exists.
 
-It does not become the authority that defines them.
+It does not decide what should exist.
