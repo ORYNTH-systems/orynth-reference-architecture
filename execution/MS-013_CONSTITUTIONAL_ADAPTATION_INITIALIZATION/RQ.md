@@ -16,19 +16,19 @@ Constitutional Execution
 
 ## Primary Research Question
 
-How shall Morning Star govern constitutional adaptation within the ORYNTH ecosystem while enabling responsive adjustment to changing conditions without losing framework identity, continuity, provenance, semantic integrity, invariant relationships, or reconstructability?
+How shall Morning Star govern constitutional adaptation within the ORYNTH ecosystem while enabling responsive adjustment to changing conditions without loss of framework identity, continuity, provenance, semantic integrity, or reconstruction capability?
 
 ---
 
 ## Secondary Questions
 
 1. What constitutes constitutional adaptation?
-2. How does adaptation differ from evolution, continuity, revision, and modification?
+2. How does adaptation differ from evolution, continuity, resilience, and modification?
 3. What conditions permit adjustment without identity loss?
-4. How shall adaptive responses preserve provenance?
-5. How shall adaptation maintain semantic boundaries?
-6. How shall adaptive states remain reconstructable?
-7. What conditions classify adaptation as unauthorized transformation?
+4. How shall adaptive states preserve provenance?
+5. How shall adaptive behavior remain constitutionally bounded?
+6. How shall adaptation remain reconstructable?
+7. What conditions indicate adaptation has become transformation?
 
 ---
 
@@ -36,11 +36,11 @@ How shall Morning Star govern constitutional adaptation within the ORYNTH ecosys
 
 A constitutionally governed adaptation architecture can respond to changing conditions when adaptation preserves:
 
-- identity invariants;
-- continuity;
+- defining invariants;
+- identity relationships;
 - provenance;
-- semantic integrity;
-- dependency relationships;
+- semantic continuity;
+- constitutional boundaries;
 - reconstruction capability.
 
 ---
@@ -49,11 +49,11 @@ A constitutionally governed adaptation architecture can respond to changing cond
 
 The adaptation architecture fails constitutionally if it:
 
-- responds without boundaries;
-- changes identity while claiming adaptation;
+- changes identity while claiming adjustment;
 - removes provenance;
-- confuses adjustment with evolution;
-- creates unreconstructable adaptive states.
+- exceeds defined boundaries;
+- confuses adaptation with evolution;
+- creates unreconstructable states.
 
 ---
 
@@ -61,6 +61,6 @@ The adaptation architecture fails constitutionally if it:
 
 Morning Star governs constitutional adaptation.
 
-It may define adaptive boundaries and preserve responsive behavior.
+It may define responsive behavior.
 
-It shall not independently authorize modification of originating frameworks, governance authority, mathematics, evidence, or constitutional ownership.
+It shall not independently authorize modification of originating frameworks, authority structures, mathematics, evidence, or constitutional ownership.

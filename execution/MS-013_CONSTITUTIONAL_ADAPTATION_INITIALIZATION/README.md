@@ -16,9 +16,9 @@ Constitutional Execution
 
 ## Objective
 
-Constitutionally establish the Morning Star Constitutional Adaptation Architecture governing responsive adjustment to changing conditions while preserving framework identity, continuity, provenance, semantic integrity, invariant relationships, and reconstructability.
+Constitutionally establish the Morning Star Constitutional Adaptation Architecture governing responsive adjustment to changing conditions while preserving framework identity, continuity, provenance, semantic integrity, invariant relationships, and reconstruction capability.
 
-Adaptation governs response to environmental, contextual, and operational change.
+Adaptation governs response within constitutional boundaries.
 
 It does not independently authorize modification of originating constitutional frameworks.
 
@@ -29,12 +29,12 @@ It does not independently authorize modification of originating constitutional f
 This execution governs:
 
 - constitutional adaptation;
-- environmental response;
-- contextual adjustment;
+- responsive adjustment;
 - adaptive boundaries;
-- stability preservation;
-- adaptation reconstruction;
-- governed responsiveness.
+- contextual response;
+- environmental change handling;
+- adaptive reconstruction;
+- preservation during adjustment.
 
 It does not replace framework governance, scientific authority, or originating constitutional mechanisms.
 
@@ -64,7 +64,8 @@ It does not replace framework governance, scientific authority, or originating c
 
 - Constitutional Adaptation Model
 - Adaptive boundary framework
-- Stability preservation model
+- Responsive state model
+- Contextual adjustment framework
 - Reconstruction evidence
 - Constitutional execution record
 
@@ -75,8 +76,9 @@ It does not replace framework governance, scientific authority, or originating c
 Execution succeeds when constitutional adaptation can distinguish:
 
 - response from modification;
-- adjustment from identity change;
-- environmental adaptation from framework evolution;
+- adjustment from evolution;
+- context change from identity change;
+- flexibility from loss of constitutional boundaries.
 
 while preserving:
 
@@ -93,4 +95,4 @@ while preserving:
 
 Morning Star governs constitutional adaptation.
 
-Adaptation permits responsive adjustment while preserving the properties that define framework identity and maintaining authority boundaries of originating constitutional systems.
+Adaptation enables responsive adjustment while preserving framework identity and maintaining authority boundaries of originating constitutional systems.

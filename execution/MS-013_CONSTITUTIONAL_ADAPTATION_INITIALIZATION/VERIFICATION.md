@@ -16,61 +16,97 @@ Constitutional Execution
 
 ## Verification Objective
 
-Verify that Constitutional Adaptation permits responsive adjustment while preserving identity, continuity, provenance, semantic integrity, invariant relationships, and reconstruction capability.
+Verify that Constitutional Adaptation enables responsive adjustment while preserving identity, continuity, provenance, semantic integrity, invariant relationships, authority boundaries, and reconstruction capability.
 
 ---
 
-## Verification Conditions
-
-### Adaptive Boundary Integrity
+## Verification Condition 1 — Adaptive Boundary Integrity
 
 PASS when:
 
-- adaptation occurs within defined constraints;
-- response boundaries are explicit;
-- identity remains preserved.
+- adaptive response remains within defined constraints;
+- boundaries are explicit;
+- authority remains preserved.
+
+FAIL when adaptation exceeds constitutional limits.
 
 ---
 
-### Identity Preservation
+## Verification Condition 2 — Identity Preservation
 
 PASS when:
 
-- framework identity remains traceable;
+- framework identity remains unchanged;
 - invariants remain preserved;
-- adaptive response does not become unauthorized transformation.
+- adaptive state remains connected to origin.
+
+FAIL when adaptation becomes evolution or replacement.
 
 ---
 
-### Provenance Integrity
+## Verification Condition 3 — Context Preservation
 
 PASS when:
 
-- adaptive inputs are recorded;
-- response pathways are traceable;
-- resulting states remain attributable.
+- adaptive trigger is recorded;
+- environmental conditions are preserved;
+- response reasoning remains traceable.
+
+FAIL when adaptive conditions are unknown.
 
 ---
 
-### Semantic Integrity
+## Verification Condition 4 — Provenance Integrity
 
 PASS when:
 
-- adaptation preserves terminology;
+- adaptive input;
+- response;
+- resulting state
+
+remain attributable.
+
+FAIL when response history is incomplete.
+
+---
+
+## Verification Condition 5 — Semantic Integrity
+
+PASS when:
+
+- terms remain canonical;
 - meanings remain stable;
-- relationships remain reconstructable.
+- boundaries remain explicit.
+
+FAIL when adaptation creates semantic drift.
 
 ---
 
-### Reconstruction Capability
+## Verification Condition 6 — Classification Integrity
+
+PASS when distinction remains clear between:
+
+- adaptation;
+- evolution;
+- revision;
+- separation.
+
+FAIL when categories collapse.
+
+---
+
+## Verification Condition 7 — Reconstruction Completeness
 
 PASS when:
 
-- adaptive conditions;
+- adaptive inputs;
+- boundaries;
 - response rules;
-- historical records;
+- resulting state
 
-produce equivalent adaptive states.
+can be reproduced.
+
+FAIL when hidden assumptions are required.
 
 ---
 
@@ -78,17 +114,18 @@ produce equivalent adaptive states.
 
 | Condition | Required State |
 |---|---|
-| Adaptive boundary integrity | PASS |
+| Boundary integrity | PASS |
 | Identity preservation | PASS |
+| Context preservation | PASS |
 | Provenance integrity | PASS |
 | Semantic integrity | PASS |
-| Continuity preservation | PASS |
-| Reconstruction capability | PASS |
+| Classification integrity | PASS |
+| Reconstruction completeness | PASS |
 
 ---
 
 ## Constitutional Invariant
 
-Verification confirms adaptation integrity.
+Verification confirms adaptive integrity.
 
-Verification does not authorize adaptation.
+Verification does not authorize adaptation or create constitutional authority.

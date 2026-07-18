@@ -16,63 +16,105 @@ Constitutional Execution
 
 ## Evidence Objective
 
-Demonstrate that adaptation remains responsive while preserving constitutional identity and boundaries.
+Demonstrate that constitutional adaptation enables responsive adjustment while preserving framework identity, continuity, provenance, semantic integrity, invariant relationships, and reconstruction capability.
 
 ---
 
-## Evidence Category 1 — Adaptive Boundary Evidence
+## Evidence Category 1 — Adaptive Condition Evidence
 
-Evidence shall demonstrate:
+Evidence shall identify:
 
-- adaptation trigger;
-- adaptive response;
-- preserved constraints;
-- resulting state.
+- triggering condition;
+- environmental context;
+- operational context;
+- adaptive requirement;
+- affected state.
 
 ---
 
-## Evidence Category 2 — Identity Preservation
+## Evidence Category 2 — Boundary Preservation Evidence
 
-Evidence shall demonstrate that adaptation preserves:
+Evidence shall demonstrate that adaptation remains within:
+
+- constitutional boundaries;
+- identity constraints;
+- authority boundaries;
+- semantic boundaries.
+
+---
+
+## Evidence Category 3 — Identity Preservation Evidence
+
+Evidence shall demonstrate preservation of:
 
 - framework identity;
 - defining invariants;
-- originating authority.
+- constitutional relationships.
 
 ---
 
-## Evidence Category 3 — Provenance Preservation
+## Evidence Category 4 — Provenance Preservation
 
 Evidence shall preserve:
 
 - adaptive input;
-- adaptive decision path;
-- resulting adaptive state;
-- historical context.
+- response pathway;
+- decision conditions;
+- resulting adaptive state.
 
 ---
 
-## Evidence Category 4 — Semantic Integrity
+## Evidence Category 5 — Semantic Integrity
 
-Evidence shall demonstrate that adaptive response does not:
+Evidence shall demonstrate that adaptation does not:
 
-- redefine terminology;
+- redefine canonical terms;
 - alter framework meaning;
-- collapse boundaries.
+- collapse conceptual boundaries.
 
 ---
 
-## Evidence Category 5 — Reconstruction
+## Evidence Category 6 — Evolution Boundary Evidence
 
-Evidence shall demonstrate that adaptive states remain reproducible from:
+Evidence shall distinguish:
 
-- inputs;
-- constraints;
-- adaptive rules;
-- historical records.
+- adaptation;
+- extension;
+- revision;
+- evolution;
+- separate framework creation.
+
+---
+
+## Evidence Category 7 — Reconstruction Capability
+
+Evidence shall demonstrate that equivalent adaptive conditions reproduce:
+
+- identical adaptive classification;
+- identical boundary assessment;
+- identical reconstructed state.
+
+---
+
+## Evidence Category 8 — Authority Preservation
+
+Evidence shall demonstrate adaptation does not modify:
+
+- originating authority;
+- governance ownership;
+- scientific foundations;
+- constitutional identity.
+
+---
+
+## Constitutional Evidence Requirement
+
+An adaptive state is constitutionally admissible only when responsive adjustment remains bounded, attributable, identity-preserving, and reconstructable.
 
 ---
 
 ## Constitutional Invariant
 
-Adaptation responds to change while preserving what defines the framework.
+Adaptation changes response.
+
+It does not change what the framework fundamentally is.

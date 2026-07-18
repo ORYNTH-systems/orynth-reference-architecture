@@ -8,6 +8,10 @@ Status:
 
 COMPLETE
 
+Classification:
+
+Constitutional Execution
+
 ---
 
 ## Version 0.1.0
@@ -17,9 +21,10 @@ Initial Constitutional Adaptation Initialization.
 Established:
 
 - adaptive boundaries;
-- responsive governance;
+- contextual response;
 - identity preservation;
 - provenance continuity;
+- semantic integrity;
 - reconstruction capability.
 
 ---
@@ -44,4 +49,4 @@ Established:
 
 ## Constitutional Invariant
 
-Adaptive history remains permanently reconstructable.
+Adaptation responds to change without changing framework identity.

@@ -16,11 +16,13 @@ Constitutional Execution
 
 ## Observation 1
 
-Constitutional adaptation follows constitutional evolution.
+Constitutional adaptation follows evolution and continuity.
 
 Evolution governs structured transformation.
 
-Adaptation governs response to changing conditions while preserving identity.
+Continuity preserves identity.
+
+Adaptation governs responsive adjustment.
 
 ---
 
@@ -30,15 +32,15 @@ Adaptation is distinct from modification.
 
 Modification changes a framework.
 
-Adaptation adjusts behavior, interpretation, or operation within preserved boundaries.
+Adaptation changes response while preserving framework identity.
 
 ---
 
 ## Observation 3
 
-Adaptation requires boundary awareness.
+Adaptation requires boundaries.
 
-A valid adaptation must preserve:
+A valid adaptive response must preserve:
 
 - identity;
 - invariants;
@@ -50,32 +52,45 @@ A valid adaptation must preserve:
 
 ## Observation 4
 
-Adaptation requires environmental awareness.
+Changing conditions do not automatically require evolution.
 
-Adaptive states may respond to:
-
-- operational conditions;
-- contextual changes;
-- environmental inputs;
-- resource conditions.
+A framework may adapt without changing its constitutional identity.
 
 ---
 
 ## Observation 5
 
-Adaptation does not create authority.
+Adaptation requires contextual awareness.
 
-An adaptive mechanism may respond.
+Adaptive states may respond to:
 
-It may not redefine the framework it operates within.
+- environmental conditions;
+- operational conditions;
+- resource conditions;
+- external inputs.
 
 ---
 
 ## Observation 6
 
-Adaptation remains valid only while identity remains preserved.
+Adaptation does not create authority.
 
-When identity changes, the transition becomes evolution or separation.
+An adaptive mechanism may respond.
+
+It may not redefine the framework it serves.
+
+---
+
+## Observation 7
+
+Adaptation requires reconstruction.
+
+Future observers must determine:
+
+- what condition triggered adaptation;
+- what response occurred;
+- what remained invariant;
+- whether identity continued.
 
 ---
 
