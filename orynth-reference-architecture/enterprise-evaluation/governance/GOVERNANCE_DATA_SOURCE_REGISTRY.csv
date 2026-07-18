@@ -1,0 +1,6 @@
+﻿"Source","Purpose","UpdateMode","Status"
+"Reference State Registry","Current canonical architecture state","Controlled","ACTIVE"
+"Implementation Registry","Independent implementation tracking","Registered Events","ACTIVE"
+"Validation Registry","Conformance and validation status","Validation Events","ACTIVE"
+"Amendment Registry","Architecture evolution tracking","Governed Changes","ACTIVE"
+"Release History","Reference state publication history","Release Events","ACTIVE"

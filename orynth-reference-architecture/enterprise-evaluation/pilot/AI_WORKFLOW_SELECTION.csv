@@ -1,0 +1,4 @@
+﻿"Workflow","RiskLevel","ExecutionEffect","GovernanceNeed"
+"Financial Settlement Agent","HIGH","Financial transaction","Runtime admissibility validation"
+"Healthcare Decision Support","HIGH","Clinical recommendation","Evidence and authority validation"
+"Enterprise Automation Agent","MEDIUM","Business process action","Authorization continuity validation"

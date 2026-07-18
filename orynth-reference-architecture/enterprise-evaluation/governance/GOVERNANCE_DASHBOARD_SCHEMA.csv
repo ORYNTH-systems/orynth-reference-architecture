@@ -1,0 +1,6 @@
+﻿"Metric","Purpose","Source"
+"Reference State","Display current canonical architecture version","Reference State Registry"
+"Implementation Count","Track registered ecosystem implementations","Implementation Registry"
+"Validation Status","Display validated implementation states","Validation Registry"
+"Active Amendments","Track pending architecture changes","Amendment Lifecycle"
+"Release History","Track reference state evolution","Release Records"

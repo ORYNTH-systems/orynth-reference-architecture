@@ -1,0 +1,5 @@
+﻿"Metric","Rule","Output"
+"Reference State","Latest approved reference version","Current Version"
+"Implementation Health","Validated implementation count and status","Ecosystem Activity"
+"Governance Activity","Open amendments and review states","Change Activity"
+"Release Status","Published maintained states","Release Condition"

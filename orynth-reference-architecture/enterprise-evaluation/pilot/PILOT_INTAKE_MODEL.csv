@@ -1,0 +1,6 @@
+﻿"Field","Purpose","Required"
+"EnterpriseTarget","Organization and deployment environment","YES"
+"AIWorkflow","Specific AI process selected for pilot","YES"
+"ExecutionBoundary","Where AI output creates external effect","YES"
+"GovernanceRequirement","Authority, policy, evidence, and validation rules","YES"
+"SuccessCriteria","How pilot effectiveness is measured","YES"

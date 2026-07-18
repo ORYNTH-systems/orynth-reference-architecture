@@ -1,0 +1,7 @@
+﻿"ORYNTH_LAYER","Enterprise_EQUIVALENT","Purpose","Integration_Point"
+"Constitutional Layer","AI Governance Policy Layer","Defines non-negotiable authority, policy, and compliance boundaries","Governance systems / policy engines"
+"Coordinate Model","Enterprise Data and Entity Model","Defines governed objects, relationships, and dependencies","Data platforms / business systems"
+"Measurement Theory","Evidence and Validation Layer","Determines whether claims and states are supported","Monitoring / audit systems"
+"Projection Theory","Representation and Reporting Layer","Allows different views without changing underlying meaning","Dashboards / reporting systems"
+"Runtime Specification","AI Execution Control Layer","Determines whether an action may execute now","AI agents / APIs / workflows"
+"Workbench Specification","Human Oversight Interface","Provides visibility into governed execution decisions","Operations / compliance teams"

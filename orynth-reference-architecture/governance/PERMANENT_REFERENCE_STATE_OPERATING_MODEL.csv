@@ -1,0 +1,6 @@
+﻿"Stage","Purpose","Authority","Status"
+"Observe","Monitor ecosystem state, implementations, and external requirements","Observation Only","ACTIVE"
+"Review","Evaluate observed conditions against maintained reference state","Governance Review","ACTIVE"
+"Amend","Introduce controlled change when required","Approved Change Process","CONTROLLED"
+"Verify","Confirm preserved invariants after change","Validation Process","ACTIVE"
+"Maintain","Publish and preserve new reference state","Reference Governance","ACTIVE"

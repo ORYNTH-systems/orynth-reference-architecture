@@ -1,0 +1,6 @@
+﻿"Field","Purpose"
+"Implementation ID","Unique ecosystem identifier"
+"Organization","Responsible implementation owner"
+"Architecture Version","Reference version implemented"
+"Validation Status","Current conformance state"
+"Evidence Record","Supporting validation package"

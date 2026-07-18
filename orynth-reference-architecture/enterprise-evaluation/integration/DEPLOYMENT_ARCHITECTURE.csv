@@ -1,0 +1,5 @@
+﻿"Layer","Function","Integration"
+"AI Layer","Generates proposed actions","Agent interfaces"
+"Governance Layer","Evaluates execution eligibility","ORYNTH runtime services"
+"Evidence Layer","Stores decision reconstruction","Audit systems"
+"Enterprise Layer","Executes approved actions","Existing infrastructure"

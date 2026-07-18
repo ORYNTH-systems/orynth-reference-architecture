@@ -1,0 +1,5 @@
+﻿"Area","Requirement","Evidence"
+"Architecture","Review execution governance design","Technical specifications"
+"Security","Review trust boundaries and access controls","Security model"
+"Integration","Evaluate deployment compatibility","Integration architecture"
+"Validation","Confirm decision verification process","Reference tests"

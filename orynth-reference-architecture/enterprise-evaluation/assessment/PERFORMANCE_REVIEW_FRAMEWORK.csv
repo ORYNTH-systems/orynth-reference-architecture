@@ -1,0 +1,5 @@
+﻿"ReviewArea","Question","Frequency"
+"Execution Integrity","Were AI actions valid at execution time?","Periodic Review"
+"Risk Reduction","Were invalid executions prevented?","Periodic Review"
+"Operational Value","Did governance improve reliability?","Periodic Review"
+"Enterprise Expansion","Where should governance extend next?","Strategic Review"

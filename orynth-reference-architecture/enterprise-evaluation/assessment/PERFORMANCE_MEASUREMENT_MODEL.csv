@@ -1,0 +1,5 @@
+﻿"Metric","Measurement","Category"
+"Prevented Invalid Executions","Actions blocked due to failed admissibility","Safety"
+"Decision Reconstruction Rate","Percentage of decisions with complete evidence","Auditability"
+"Authorization Continuity","Valid authority at execution time","Governance"
+"Operational Efficiency","Impact on workflow reliability","Business Value"

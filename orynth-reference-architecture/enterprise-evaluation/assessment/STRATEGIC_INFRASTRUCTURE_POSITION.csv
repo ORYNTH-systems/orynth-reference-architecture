@@ -1,0 +1,5 @@
+﻿"Layer","Relationship"
+"AI Applications","Uses governed execution capability"
+"AI Agents","Submit actions for validation"
+"Execution Integrity Infrastructure","Determines admissibility and preserves evidence"
+"Enterprise Systems","Receive validated actions"

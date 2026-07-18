@@ -1,0 +1,5 @@
+﻿"Area","Purpose","Owner","Status"
+"Governance Ownership","Define responsible enterprise teams and decision authority","Enterprise Governance","DEFINED"
+"Execution Controls","Maintain authority, policy, and admissibility checks","AI Operations","DEFINED"
+"Evidence Management","Preserve execution records and reconstruction evidence","Compliance / Audit","DEFINED"
+"Change Governance","Control future system modifications","Architecture Governance","DEFINED"

@@ -1,0 +1,7 @@
+﻿"Question","Purpose"
+"What AI systems currently execute actions?","Enterprise discovery"
+"Which actions create external consequences?","Enterprise discovery"
+"How is authorization verified at execution time?","Enterprise discovery"
+"How are failed or blocked decisions explained?","Enterprise discovery"
+"What evidence exists for autonomous decisions?","Enterprise discovery"
+"Where would execution governance provide value?","Enterprise discovery"

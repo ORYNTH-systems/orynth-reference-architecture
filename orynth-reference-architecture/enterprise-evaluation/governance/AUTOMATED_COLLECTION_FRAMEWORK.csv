@@ -1,0 +1,5 @@
+﻿"Process","Action","Status"
+"Source Discovery","Locate governance records","DEFINED"
+"Data Normalization","Convert records into dashboard format","DEFINED"
+"State Aggregation","Calculate ecosystem status","DEFINED"
+"Report Generation","Produce governance summaries","DEFINED"
