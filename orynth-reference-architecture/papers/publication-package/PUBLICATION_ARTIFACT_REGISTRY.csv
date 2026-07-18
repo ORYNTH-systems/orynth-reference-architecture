@@ -1,0 +1,8 @@
+Artifact,Format,Source,Version,Publication_Status,Verification_State
+ORYNTH Reference Architecture Manuscript,Markdown,PUBLICATION_DRAFT.md,v1.0.0,READY,VERIFIED
+ORYNTH Reference Architecture Metadata,Markdown,PUBLICATION_METADATA.md,v1.0.0,READY,VERIFIED
+ORYNTH Reference Architecture Format Specification,Markdown,PUBLICATION_FORMAT_SPECIFICATION.md,v1.0.0,READY,VERIFIED
+ORYNTH Reference Architecture Assembly Record,Markdown,MANUSCRIPT_ASSEMBLY_RECORD.md,v1.0.0,COMPLETE,VERIFIED
+ORYNTH Reference Architecture Export Record,Markdown,PUBLICATION_EXPORT_RECORD.md,v1.0.0,COMPLETE,VERIFIED
+ORYNTH Reference Architecture PDF Artifact,PDF,Final Manuscript Export,v1.0.0,PENDING,PENDING
+ORYNTH Reference Architecture Repository Reference,GitHub Release,v1.0.0,v1.0.0,PUBLISHED,VERIFIED
