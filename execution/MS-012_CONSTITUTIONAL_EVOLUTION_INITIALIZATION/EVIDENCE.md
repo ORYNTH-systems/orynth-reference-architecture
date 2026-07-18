@@ -16,26 +16,26 @@ Constitutional Execution
 
 ## Evidence Objective
 
-This execution establishes the constitutional evidence required to demonstrate that evolution within the Morning Star architecture remains structured, classified, provenance-preserving, identity-aware, and constitutionally governed.
+Demonstrate that constitutional evolution permits structured transformation while preserving framework identity, continuity, provenance, semantic integrity, invariant relationships, and reconstruction capability.
 
 ---
 
 ## Evidence Category 1 — Evolution Identity Evidence
 
-Evidence shall demonstrate that every evolutionary transition preserves or explicitly classifies:
+Evidence shall demonstrate preservation of:
 
-- framework identity;
+- originating framework identity;
 - defining invariants;
-- originating authority;
-- historical relationship.
+- constitutional relationships;
+- authority boundaries.
 
 ---
 
-## Evidence Category 2 — Transition Lineage
+## Evidence Category 2 — Transition Lineage Evidence
 
-Every evolutionary transition shall preserve:
+Evidence shall preserve:
 
-- previous state;
+- prior state;
 - transition event;
 - transition rationale;
 - resulting state;
@@ -43,36 +43,36 @@ Every evolutionary transition shall preserve:
 
 ---
 
-## Evidence Category 3 — Provenance Preservation
+## Evidence Category 3 — Evolution Classification Evidence
 
-Evidence shall demonstrate that evolutionary states remain attributable to:
-
-- originating framework;
-- prior constitutional states;
-- authorized transition records;
-- execution history.
-
----
-
-## Evidence Category 4 — Semantic Integrity
-
-Evidence shall demonstrate that evolution preserves:
-
-- canonical terminology;
-- framework meaning;
-- constitutional relationships;
-- semantic boundaries.
-
----
-
-## Evidence Category 5 — Evolution Classification
-
-Evidence shall demonstrate that transitions can be classified as:
+Evidence shall demonstrate classification of transitions as:
 
 - continuation;
 - extension;
 - revision;
 - separate framework.
+
+---
+
+## Evidence Category 4 — Provenance Preservation
+
+Evidence shall demonstrate continuous attribution across:
+
+- originating framework;
+- constitutional authority;
+- transition artifacts;
+- evolutionary states.
+
+---
+
+## Evidence Category 5 — Semantic Integrity
+
+Evidence shall demonstrate preservation of:
+
+- canonical terminology;
+- framework meaning;
+- conceptual relationships;
+- constitutional boundaries.
 
 ---
 
@@ -82,17 +82,17 @@ Evidence shall demonstrate that defining invariants remain traceable across:
 
 - revisions;
 - extensions;
-- architectural changes;
+- transformations;
 - evolutionary states.
 
 ---
 
 ## Evidence Category 7 — Reconstruction Capability
 
-Evidence shall demonstrate that equivalent evolutionary inputs reproduce:
+Evidence shall demonstrate equivalent historical inputs reproduce:
 
 - identical transition classification;
-- identical lineage;
+- identical lineage assessment;
 - identical identity assessment;
 - identical reconstruction result.
 
@@ -100,25 +100,22 @@ Evidence shall demonstrate that equivalent evolutionary inputs reproduce:
 
 ## Evidence Category 8 — Authority Boundary Preservation
 
-Evidence shall demonstrate that evolution does not independently modify:
+Evidence shall demonstrate evolution does not modify:
 
 - framework authority;
-- governance;
+- governance ownership;
 - mathematics;
-- evidence;
-- scientific conclusions;
-- constitutional ownership.
+- evidence standards;
+- constitutional identity.
 
 ---
 
 ## Constitutional Evidence Requirement
 
-An evolutionary state is constitutionally admissible only when change remains classified, attributable, identity-aware, provenance-preserving, semantically stable, and independently reconstructable.
+An evolutionary state is constitutionally admissible only when transformation remains classified, attributable, identity-aware, provenance-preserving, semantically stable, and independently reconstructable.
 
 ---
 
 ## Constitutional Invariant
 
-Evolution governs transformation.
-
-It does not become the authority that determines what a framework is.
+Evolution preserves the relationship between the framework that existed, the framework that changed, and the framework that remains.

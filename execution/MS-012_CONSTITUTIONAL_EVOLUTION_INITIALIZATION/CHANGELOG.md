@@ -8,6 +8,10 @@ Status:
 
 COMPLETE
 
+Classification:
+
+Constitutional Execution
+
 ---
 
 ## Version 0.1.0
@@ -16,10 +20,12 @@ Initial Constitutional Evolution Initialization.
 
 Established:
 
-- evolution classification;
+- transformation classification;
 - identity preservation;
+- transition lineage;
 - provenance continuity;
-- semantic integrity;
+- semantic continuity;
+- invariant preservation;
 - reconstruction capability.
 
 ---
@@ -44,4 +50,4 @@ Established:
 
 ## Constitutional Invariant
 
-Evolution history remains permanently reconstructable.
+Evolution transforms while preserving the identity relationship of the framework.

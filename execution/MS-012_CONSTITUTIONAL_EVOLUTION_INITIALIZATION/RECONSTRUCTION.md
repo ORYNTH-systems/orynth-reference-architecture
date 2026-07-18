@@ -16,15 +16,20 @@ Constitutional Execution
 
 ## Reconstruction Objective
 
-Define how evolutionary states are independently reproduced from historical records, transition evidence, provenance chains, and constitutional artifacts.
+Define how evolutionary states are independently reproduced from historical states, transition records, provenance chains, invariant definitions, and constitutional constraints.
 
 ---
 
-## Required Inputs
+## Required Reconstruction Inputs
 
-- framework identity;
-- prior constitutional states;
-- transition records;
+A constitutional evolutionary state shall be reconstructable from:
+
+- originating framework identity;
+- originating constitutional authority;
+- prior state;
+- transition event;
+- transition rationale;
+- resulting state;
 - invariant definitions;
 - provenance records;
 - semantic records;
@@ -35,35 +40,65 @@ Define how evolutionary states are independently reproduced from historical reco
 ## Reconstruction Sequence
 
 1. Identify originating framework.
-2. Restore historical states.
-3. Restore transition events.
-4. Verify invariant preservation.
-5. Verify provenance continuity.
-6. Verify semantic continuity.
-7. Classify evolutionary relationship.
-8. Generate reconstructed evolution state.
+2. Restore historical state.
+3. Restore transition event.
+4. Restore transition rationale.
+5. Verify invariant preservation.
+6. Verify provenance continuity.
+7. Verify semantic continuity.
+8. Determine transition classification.
+9. Generate reconstructed evolutionary state.
+10. Compare reconstructed result with recorded evolution state.
 
 ---
 
 ## Reconstruction Equality
 
+A reconstruction succeeds when equivalent historical inputs reproduce:
+
+- identical transition classification;
+- identical identity assessment;
+- identical lineage relationship;
+- identical provenance chain;
+- identical evolutionary state.
+
+Formally:
+
 Rc(E₁)=Rc(E₂)
 
-when equivalent historical inputs produce equivalent evolutionary states.
+when:
+
+Inputs(E₁)=Inputs(E₂)
+
+and all constitutional evolution constraints remain satisfied.
 
 ---
 
-## Failure Conditions
+## Reconstruction Failure Conditions
 
 Reconstruction fails when:
 
-- lineage is missing;
-- identity cannot be determined;
+- originating state is unknown;
+- transition history is incomplete;
 - provenance is broken;
-- transition classification is impossible.
+- invariant relationships cannot be established;
+- identity relationship cannot be determined;
+- classification cannot be reproduced.
 
 ---
 
-## Constitutional Invariant
+## Independent Observer Requirement
 
-Evolution remains admissible only when its history remains reconstructable.
+An independent observer shall not require:
+
+- undocumented transition history;
+- hidden assumptions;
+- private interpretation;
+- unavailable evidence;
+- implied authority.
+
+---
+
+## Constitutional Reconstruction Invariant
+
+Every constitutionally admissible evolutionary state shall remain reproducible from recorded history while preserving identity, continuity, provenance, semantic integrity, and transition relationships.

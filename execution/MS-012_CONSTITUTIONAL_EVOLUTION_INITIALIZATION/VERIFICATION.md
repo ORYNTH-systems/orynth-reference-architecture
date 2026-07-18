@@ -16,62 +16,77 @@ Constitutional Execution
 
 ## Verification Objective
 
-Verify that the Morning Star Constitutional Evolution Architecture governs structured transformation while preserving identity, continuity, provenance, semantic integrity, invariant relationships, and reconstruction capability.
+Verify that Constitutional Evolution governs structured transformation while preserving identity, continuity, provenance, semantic integrity, invariant relationships, and reconstruction capability.
 
 ---
 
-## Verification Conditions
-
-### Identity Preservation
+## Verification Condition 1 — Identity Preservation
 
 PASS when:
 
 - framework identity remains traceable;
 - defining invariants remain preserved;
-- originating authority remains identifiable.
+- transformation remains connected to origin.
+
+FAIL when evolution becomes replacement.
 
 ---
 
-### Transition Classification
+## Verification Condition 2 — Transition Classification
 
 PASS when:
 
-- continuation, extension, revision, and separation states are distinguishable;
-- transition reasoning is recorded;
-- lineage remains available.
+- transition type is explicitly identified;
+- classification rationale exists;
+- relationship between states is preserved.
+
+FAIL when change classification is ambiguous.
 
 ---
 
-### Provenance Integrity
+## Verification Condition 3 — Provenance Preservation
 
 PASS when:
 
-- prior states are preserved;
-- transition records are complete;
-- evolutionary relationships remain attributable.
+- origin remains known;
+- transition history remains recorded;
+- evolutionary state remains attributable.
+
+FAIL when lineage is broken.
 
 ---
 
-### Semantic Integrity
+## Verification Condition 4 — Semantic Integrity
 
 PASS when:
 
 - terminology remains stable;
 - meanings remain traceable;
-- boundaries remain explicit.
+- conceptual boundaries remain preserved.
+
+FAIL when evolution creates semantic collapse.
 
 ---
 
-### Reconstruction Capability
+## Verification Condition 5 — Invariant Preservation
+
+PASS when defining invariants remain present across transformation.
+
+FAIL when defining properties are removed without reclassification.
+
+---
+
+## Verification Condition 6 — Reconstruction Completeness
 
 PASS when:
 
-- historical states;
-- transition records;
-- provenance chains;
-- invariant relationships
+- prior state;
+- transition;
+- resulting state;
 
-can reproduce the evolutionary state.
+can be independently reproduced.
+
+FAIL when evolutionary reasoning requires hidden assumptions.
 
 ---
 
@@ -81,10 +96,10 @@ can reproduce the evolutionary state.
 |---|---|
 | Identity preservation | PASS |
 | Transition classification | PASS |
-| Provenance integrity | PASS |
+| Provenance preservation | PASS |
 | Semantic integrity | PASS |
 | Invariant preservation | PASS |
-| Reconstruction capability | PASS |
+| Reconstruction completeness | PASS |
 
 ---
 
@@ -92,4 +107,4 @@ can reproduce the evolutionary state.
 
 Verification confirms evolutionary integrity.
 
-Verification does not authorize evolution.
+Verification does not initiate evolution or create authority.

@@ -16,9 +16,11 @@ Constitutional Execution
 
 ## Objective
 
-Constitutionally establish the Morning Star Constitutional Continuity Architecture governing preservation of constitutional identity across future revisions, extensions, transitions, and architectural evolution.
+Constitutionally establish the Morning Star Constitutional Continuity Architecture governing preservation of framework identity, historical lineage, constitutional relationships, and reconstructable existence across time, transitions, and evolutionary states.
 
-Continuity governs the preservation of invariants, historical lineage, provenance, and reconstructability while allowing governed growth of the ORYNTH ecosystem.
+Continuity governs preservation of identity through change.
+
+It does not prevent adaptation, evolution, resilience, or transformation.
 
 ---
 
@@ -27,14 +29,14 @@ Continuity governs the preservation of invariants, historical lineage, provenanc
 This execution governs:
 
 - constitutional continuity;
-- identity preservation;
-- historical continuity;
-- architectural lineage;
-- invariant preservation;
+- identity preservation across time;
+- historical lineage;
+- transition preservation;
+- constitutional inheritance;
 - continuity reconstruction;
-- governed evolution pathways.
+- invariant preservation.
 
-It does not modify scientific framework authority, constitutional governance, or scientific conclusions.
+It does not replace framework governance, scientific authority, or originating constitutional mechanisms.
 
 ---
 
@@ -60,8 +62,8 @@ It does not modify scientific framework authority, constitutional governance, or
 
 - Constitutional Continuity Model
 - Identity preservation framework
-- Evolution continuity requirements
-- Reconstruction evidence
+- Lineage preservation model
+- Transition continuity evidence
 - Constitutional execution record
 
 ---
@@ -76,7 +78,13 @@ Execution succeeds when constitutional continuity can preserve:
 - semantic integrity;
 - invariant relationships;
 - reconstruction capability;
-- governed evolution.
+
+across:
+
+- operational states;
+- adaptive states;
+- evolutionary states;
+- transitional states.
 
 ---
 
@@ -84,4 +92,4 @@ Execution succeeds when constitutional continuity can preserve:
 
 Morning Star governs constitutional continuity.
 
-Continuity shall preserve what makes a framework itself while allowing authorized evolution without collapsing identity, provenance, authority, or historical reconstruction.
+Continuity preserves what a framework is across time while allowing authorized change to occur without loss of identity.

@@ -16,9 +16,9 @@ Constitutional Execution
 
 ## Objective
 
-Establish the constitutional mathematical relationships governing continuity, identity preservation, and admissible evolution within the Morning Star architecture.
+Establish the constitutional mathematical relationships governing continuity preservation within the Morning Star architecture.
 
-The mathematics describe continuity relationships.
+The mathematics describe identity preservation across states.
 
 They do not modify framework-specific scientific mathematics.
 
@@ -26,17 +26,17 @@ They do not modify framework-specific scientific mathematics.
 
 ## Constitutional Variables
 
-K(t)
+C(t)
 
 := Constitutional continuity state
 
 I(t)
 
-:= Framework identity state
+:= Identity state
 
-H(t)
+L(t)
 
-:= Historical lineage completeness
+:= Lineage completeness
 
 P(t)
 
@@ -50,29 +50,29 @@ V(t)
 
 := Invariant preservation
 
-D(t)
+T(t)
 
-:= Dependency continuity
+:= Transition relationship
 
 R(t)
 
 := Reconstruction completeness
 
-E(t)
+A(t)
 
-:= Evolution admissibility
+:= Continuity admissibility
 
 ---
 
 ## Continuity Admissibility
 
-E(t) = 1 iff:
+A(t)=1 iff:
 
-K(t)=1
+C(t)=1
 
 ∧ I(t)=1
 
-∧ H(t)=1
+∧ L(t)=1
 
 ∧ P(t)=1
 
@@ -80,53 +80,55 @@ K(t)=1
 
 ∧ V(t)=1
 
-∧ D(t)=1
+∧ T(t)=1
 
 ∧ R(t)=1
 
 Otherwise:
 
-E(t)=0
+A(t)=0
 
 ---
 
-## Identity Preservation
+## Identity Preservation Constraint
 
 Let:
 
-I(f,t)
+I(t₁)
 
-represent framework identity at time t.
+represent identity at prior state.
+
+I(t₂)
+
+represent identity at current state.
 
 Continuity requires:
 
-I(f,t₁)=I(f,t₂)
+I(t₁)=I(t₂)
 
-when constitutional invariants remain preserved.
-
----
-
-## Historical Lineage Conservation
-
-For every transition:
-
-H(t+1) ≥ H(t)
-
-A valid evolution transition shall preserve historical knowledge.
-
-It shall not erase prior constitutional states.
+with respect to defining invariants.
 
 ---
 
-## Provenance Continuity
+## Lineage Conservation
 
 For every transition:
+
+L(t+1) ≥ L(t)
+
+A continuous transition shall preserve historical relationship.
+
+---
+
+## Provenance Conservation
+
+For every continuity transition:
 
 P(t+1) ≥ P(t)
 
-Evolution may extend a framework.
+Continuity may add history.
 
-It shall not decrease provenance visibility.
+It shall not erase origin.
 
 ---
 
@@ -136,53 +138,27 @@ For every canonical concept c:
 
 S(c,t₁)=S(c,t₂)
 
-unless an authorized constitutional transition explicitly governs semantic change.
+unless an explicitly governed semantic transition exists.
 
 ---
 
-## Invariant Preservation
+## Transition Relationship
 
 Let:
 
-V = {v₁,v₂,...,vₙ}
+T(a,b)
 
-represent constitutional invariants.
+represent the relationship between states a and b.
 
 Continuity requires:
 
-∀ vᵢ ∈ V
+T(a,b)=1
 
-vᵢ(t₁) → vᵢ(t₂)
+when:
 
-remains traceable.
+a → b
 
----
-
-## Continuity Classification
-
-Let:
-
-ΔI
-
-represent identity deviation.
-
-Then:
-
-If:
-
-ΔI = 0
-
-and lineage is preserved:
-
-Classification = CONTINUATION
-
-If:
-
-ΔI ≠ 0
-
-or lineage cannot be reconstructed:
-
-Classification = SEPARATE FRAMEWORK
+remains historically and constitutionally traceable.
 
 ---
 
@@ -190,18 +166,28 @@ Classification = SEPARATE FRAMEWORK
 
 Let:
 
-Rc(K)
+Rc(C)
 
-represent reconstruction of continuity state.
+represent reconstruction of continuity.
 
 A valid reconstruction satisfies:
 
-Rc(K)=K
+Rc(C)=C
 
-when identical admitted historical inputs are provided.
+when identical historical inputs and constitutional records are provided.
+
+---
+
+## Continuity Boundary
+
+Continuity is preserved when:
+
+Identity + Lineage + Provenance + Semantics + Invariants + Reconstruction
+
+remain connected across time.
 
 ---
 
 ## Constitutional Invariant
 
-Admissible continuity exists only when identity, lineage, provenance, semantics, invariants, dependencies, and reconstruction remain simultaneously preserved across change.
+A framework remains continuous when change occurs without breaking the relationship between its originating identity and its current state.

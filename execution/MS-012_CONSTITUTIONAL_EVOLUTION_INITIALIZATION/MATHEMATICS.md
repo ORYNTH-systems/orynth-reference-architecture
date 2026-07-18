@@ -16,11 +16,11 @@ Constitutional Execution
 
 ## Objective
 
-Establish the constitutional mathematical relationships governing admissible evolution, transition classification, identity preservation, and reconstruction within the Morning Star architecture.
+Establish the constitutional mathematical relationships governing admissible evolution within the Morning Star architecture.
 
-The mathematics describe evolutionary relationships.
+The mathematics describe transformation classification and identity preservation.
 
-They do not modify framework-specific scientific mathematics.
+They do not replace framework-specific scientific mathematics.
 
 ---
 
@@ -28,11 +28,11 @@ They do not modify framework-specific scientific mathematics.
 
 Ev(t)
 
-:= Constitutional evolution state
+:= Evolution state
 
 I(t)
 
-:= Framework identity state
+:= Identity preservation
 
 C(t)
 
@@ -50,17 +50,17 @@ V(t)
 
 := Invariant preservation
 
-H(t)
+T(t)
 
-:= Historical lineage completeness
+:= Transition classification
+
+L(t)
+
+:= Lineage completeness
 
 R(t)
 
 := Reconstruction completeness
-
-T(t)
-
-:= Transition classification
 
 A(t)
 
@@ -70,7 +70,7 @@ A(t)
 
 ## Evolution Admissibility
 
-A(t) = 1 iff:
+A(t)=1 iff:
 
 Ev(t)=1
 
@@ -84,7 +84,7 @@ Ev(t)=1
 
 ∧ V(t)=1
 
-∧ H(t)=1
+∧ L(t)=1
 
 ∧ R(t)=1
 
@@ -94,77 +94,103 @@ A(t)=0
 
 ---
 
-## Identity Continuity Constraint
+## Identity Preservation Constraint
 
 Let:
 
-ΔI
+I₀
 
-represent identity deviation.
+represent originating identity.
 
-If:
+Iₙ
 
-ΔI = 0
+represent evolved identity.
 
-and continuity conditions remain satisfied:
+Evolution remains continuous when:
 
-T(t)=CONTINUATION
+I₀ = Iₙ
 
----
-
-## Extension Classification
-
-An evolutionary transition is classified:
-
-EXTENSION
-
-when:
-
-I(t+1)=I(t)
-
-and
-
-Capability(t+1) > Capability(t)
-
-while constitutional invariants remain preserved.
+with respect to defining invariants.
 
 ---
 
-## Revision Classification
+## Transition Classification Function
 
-A transition is classified:
+Let:
 
-REVISION
+T(x,y)
 
-when:
+represent the relationship between states x and y.
 
-Expression(t+1) ≠ Expression(t)
+Then:
 
-but:
+T(x,y) ∈ {
 
-I(t+1)=I(t)
+CONTINUATION,
 
-and lineage remains reconstructable.
+EXTENSION,
 
----
-
-## Separation Classification
-
-A transition is classified:
+REVISION,
 
 SEPARATE_FRAMEWORK
 
-when:
+}
 
-ΔI ≠ 0
+---
+
+## Continuation Condition
+
+Continuation exists when:
+
+Identity preserved
+
+∧
+
+Lineage preserved
+
+∧
+
+Reconstruction possible
+
+---
+
+## Extension Condition
+
+Extension exists when:
+
+Capability(x+1) > Capability(x)
+
+while:
+
+Identity(x+1)=Identity(x)
+
+---
+
+## Revision Condition
+
+Revision exists when:
+
+Expression(x+1) ≠ Expression(x)
+
+while:
+
+Identity(x+1)=Identity(x)
+
+---
+
+## Separation Condition
+
+Separate framework exists when:
+
+Identity(x+1) ≠ Identity(x)
 
 or:
 
-H(t)=0
+Lineage(x,x+1)=0
 
 or:
 
-R(t)=0
+Reconstruction(x,x+1)=0
 
 ---
 
@@ -174,9 +200,9 @@ For every evolutionary transition:
 
 P(t+1) ≥ P(t)
 
-Evolution may expand a framework.
+Evolution may expand capability.
 
-It shall not reduce historical attribution.
+It shall not erase origin.
 
 ---
 
@@ -186,25 +212,7 @@ For every canonical concept c:
 
 S(c,t₁)=S(c,t₂)
 
-unless an authorized semantic transition explicitly governs the change.
-
----
-
-## Invariant Preservation
-
-Let:
-
-V={v₁,v₂,...,vₙ}
-
-represent defining invariants.
-
-Evolution requires:
-
-∀vᵢ ∈ V
-
-vᵢ(t₁) → vᵢ(t₂)
-
-remains traceable.
+unless a governed semantic transition explicitly exists.
 
 ---
 
@@ -224,6 +232,14 @@ when identical admitted historical inputs are provided.
 
 ---
 
+## Evolution Boundary
+
+Admissible evolution requires:
+
+Identity + Continuity + Provenance + Semantics + Invariants + Reconstruction
+
+---
+
 ## Constitutional Invariant
 
-Admissible evolution exists only when transformation preserves identity, continuity, provenance, semantic integrity, invariants, historical lineage, and reconstruction capability.
+Evolution exists when transformation occurs without breaking the identity relationship of the framework.

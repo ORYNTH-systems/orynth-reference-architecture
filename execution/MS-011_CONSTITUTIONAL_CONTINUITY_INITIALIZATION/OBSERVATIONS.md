@@ -16,112 +16,91 @@ Constitutional Execution
 
 ## Observation 1
 
-Constitutional continuity follows constitutional verification.
+Constitutional continuity follows verification.
 
-Verification confirms that integrity exists.
+Verification confirms integrity.
 
-Continuity governs preservation of that integrity across change.
+Continuity preserves integrity through time.
 
 ---
 
 ## Observation 2
 
-Continuity is distinct from preservation.
+Continuity is distinct from stability.
 
-Preservation may maintain an artifact.
+Stability preserves coherent operation.
 
-Constitutional continuity preserves:
-
-- identity;
-- lineage;
-- relationships;
-- provenance;
-- invariants;
-- reconstructability.
+Continuity preserves identity and lineage.
 
 ---
 
 ## Observation 3
 
-Framework identity depends on preserved invariants.
+Continuity is distinct from resilience.
 
-A framework remains constitutionally continuous when its defining properties remain traceable through:
+Resilience preserves integrity under stress.
 
-- revisions;
-- extensions;
-- implementations;
-- transitions;
-- historical states.
+Continuity preserves the relationship between prior and current states.
 
 ---
 
 ## Observation 4
 
-Continuity requires historical lineage.
+Continuity is distinct from evolution.
 
-Every constitutional transition shall preserve:
+Evolution governs structured transformation.
 
-- previous state;
-- transition cause;
-- authorized change boundary;
-- resulting state;
-- relationship between states.
+Continuity determines whether transformation remains connected to originating identity.
 
 ---
 
 ## Observation 5
 
-Continuity preserves semantic integrity.
+Continuity requires invariant preservation.
 
-Evolution may expand expression.
-
-It shall not silently alter:
-
-- canonical terminology;
-- foundational relationships;
-- constitutional definitions;
-- framework identity.
+A framework remains continuous when defining properties remain traceable across states.
 
 ---
 
 ## Observation 6
 
-Continuity distinguishes evolution from replacement.
+Continuity requires provenance preservation.
 
-A revision represents continuation when:
+Every current state must maintain relationship to:
 
-- identity invariants remain preserved;
-- provenance remains connected;
-- historical reconstruction remains possible.
-
-A revision represents a separate framework when constitutional identity boundaries are no longer preserved.
+- originating state;
+- transition history;
+- constitutional authority;
+- evidence chain.
 
 ---
 
 ## Observation 7
 
-Continuity does not create modification authority.
+Continuity does not prevent change.
 
-A continuity mechanism records and preserves evolution.
+A continuous framework may:
 
-It does not independently authorize evolution.
+- adapt;
+- evolve;
+- expand;
+- transform.
+
+The requirement is preservation of identity relationship.
 
 ---
 
 ## Observation 8
 
-Continuity requires reconstruction.
+Continuity loss occurs when:
 
-An independent observer shall reproduce framework lineage using:
-
-- historical states;
-- transition records;
-- provenance chains;
-- constitutional artifacts;
-- continuity rules.
+- lineage cannot be established;
+- identity cannot be reconstructed;
+- provenance is broken;
+- semantic relationship collapses.
 
 ---
 
 ## Constitutional Finding
 
-Constitutional Continuity is an independent capability governing preservation of identity through authorized change while maintaining lineage, provenance, semantic integrity, invariant relationships, and reconstruction capability.
+Constitutional Continuity governs preservation of identity across time and transformation while maintaining lineage, provenance, semantic integrity, and reconstruction capability.

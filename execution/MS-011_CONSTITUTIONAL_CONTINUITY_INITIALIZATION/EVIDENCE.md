@@ -16,98 +16,97 @@ Constitutional Execution
 
 ## Evidence Objective
 
-This execution establishes the constitutional evidence required to demonstrate that continuity within the Morning Star architecture preserves framework identity, historical lineage, provenance, semantic integrity, invariant relationships, and reconstructability across governed change.
+Demonstrate that constitutional continuity preserves framework identity, lineage, provenance, semantic integrity, invariant relationships, and reconstruction capability across time and transformation.
 
 ---
 
-## Evidence Category 1 — Identity Preservation
+## Evidence Category 1 — Identity Continuity Evidence
 
-Evidence shall demonstrate that continuity preserves:
+Evidence shall demonstrate preservation of:
 
-- constitutional identity;
+- framework identity;
 - defining invariants;
-- framework boundaries;
-- originating authority;
-- historical relationships.
+- constitutional relationships;
+- originating authority.
 
 ---
 
-## Evidence Category 2 — Historical Lineage
+## Evidence Category 2 — Historical Lineage Evidence
 
-Every continuity transition shall preserve:
+Evidence shall preserve:
 
-- prior constitutional state;
-- transition record;
-- transition rationale;
-- resulting constitutional state;
+- originating state;
+- transition events;
+- intermediate states;
+- current state;
 - relationship between states.
 
 ---
 
 ## Evidence Category 3 — Provenance Continuity
 
-Evidence shall demonstrate that every evolved state remains attributable to:
+Evidence shall demonstrate continuous attribution across:
 
-- originating framework;
-- originating authority;
-- prior states;
-- transition events;
-- continuity records.
+- framework origin;
+- constitutional authority;
+- artifacts;
+- transitions;
+- execution records.
 
 ---
 
 ## Evidence Category 4 — Semantic Continuity
 
-Evidence shall demonstrate that continuity preserves:
+Evidence shall demonstrate preservation of:
 
 - canonical terminology;
 - framework-specific meaning;
-- foundational relationships;
-- constitutional definitions.
+- conceptual relationships;
+- constitutional boundaries.
 
 ---
 
-## Evidence Category 5 — Invariant Preservation
+## Evidence Category 5 — Transition Continuity
 
-Evidence shall demonstrate that defining constitutional invariants remain traceable across:
+Evidence shall demonstrate that transitions preserve:
 
-- revisions;
-- extensions;
-- implementations;
-- architectural transitions.
+- prior state relationship;
+- transition rationale;
+- resulting state;
+- continuity classification.
 
 ---
 
 ## Evidence Category 6 — Reconstruction Capability
 
-Evidence shall demonstrate that equivalent continuity inputs reproduce:
+Evidence shall demonstrate that equivalent historical records reproduce:
 
-- identical historical lineage;
-- identical transition relationships;
-- identical identity assessment;
-- identical continuity classification.
+- identical continuity assessment;
+- identical lineage relationship;
+- identical identity classification;
+- identical reconstruction state.
 
 ---
 
-## Evidence Category 7 — Evolution Boundary Preservation
+## Evidence Category 7 — Authority Preservation
 
-Evidence shall demonstrate that continuity distinguishes:
+Evidence shall demonstrate continuity does not modify:
 
-- authorized evolution;
-- identity-preserving extension;
-- architectural revision;
-- framework separation.
+- framework authority;
+- governance;
+- mathematics;
+- evidence;
+- scientific conclusions;
+- evolution authority.
 
 ---
 
 ## Constitutional Evidence Requirement
 
-A continuity state is constitutionally admissible only when identity, lineage, provenance, semantic integrity, invariants, and reconstruction capability remain preserved.
+A continuity state is constitutionally admissible only when identity, lineage, provenance, semantic integrity, and reconstruction remain preserved.
 
 ---
 
 ## Constitutional Invariant
 
-Continuity preserves the identity of a framework through change.
-
-Continuity does not create authority to change the framework.
+Continuity preserves the relationship between what a framework was, what it is, and what it becomes.

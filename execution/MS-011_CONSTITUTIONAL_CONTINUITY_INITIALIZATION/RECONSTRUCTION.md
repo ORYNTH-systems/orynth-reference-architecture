@@ -16,39 +16,37 @@ Constitutional Execution
 
 ## Reconstruction Objective
 
-Define the constitutional process by which a Morning Star continuity state may be independently reproduced from historical records, transition evidence, provenance chains, invariant relationships, and constitutional artifacts.
+Define the constitutional process by which any Morning Star continuity state may be independently reproduced from historical records, transition records, provenance chains, and preserved invariants.
 
 ---
 
 ## Required Reconstruction Inputs
 
-A continuity state shall be reconstructable from:
+A constitutional continuity state shall be reconstructable from:
 
-- execution identifier;
-- framework identifier;
-- historical states;
-- transition records;
+- originating framework identifier;
+- originating constitutional authority;
+- initial framework state;
+- transition history;
+- current framework state;
 - invariant definitions;
 - provenance records;
 - semantic records;
-- dependency relationships;
-- continuity classification;
-- reconstruction evidence.
+- continuity assessment.
 
 ---
 
 ## Reconstruction Sequence
 
-1. Identify framework identity.
+1. Identify originating constitutional state.
 2. Restore historical lineage.
-3. Restore prior constitutional states.
-4. Restore transition records.
+3. Restore transition sequence.
+4. Verify invariant preservation.
 5. Verify provenance continuity.
-6. Verify invariant preservation.
-7. Verify semantic continuity.
-8. Classify continuity relationship.
-9. Generate reconstructed continuity state.
-10. Compare reconstructed state with recorded continuity evidence.
+6. Verify semantic continuity.
+7. Verify identity relationship.
+8. Evaluate continuity admissibility.
+9. Compare reconstructed state with recorded continuity state.
 
 ---
 
@@ -57,22 +55,48 @@ A continuity state shall be reconstructable from:
 A reconstruction succeeds when equivalent historical inputs reproduce:
 
 - identical lineage;
-- identical transition relationships;
-- identical identity classification;
-- identical continuity result.
+- identical identity relationship;
+- identical provenance chain;
+- identical semantic continuity;
+- identical continuity classification.
 
 Formally:
 
-Rc(K₁)=Rc(K₂)
+Rc(C₁)=Rc(C₂)
 
 when:
 
-Inputs(K₁)=Inputs(K₂)
+History(C₁)=History(C₂)
 
-and constitutional continuity constraints remain satisfied.
+and all constitutional continuity constraints remain satisfied.
+
+---
+
+## Reconstruction Failure Conditions
+
+Reconstruction fails when:
+
+- originating state is unknown;
+- transition history is incomplete;
+- provenance is broken;
+- invariant relationships cannot be established;
+- semantic continuity cannot be determined;
+- identity relationship is lost.
+
+---
+
+## Independent Observer Requirement
+
+An independent observer shall not require:
+
+- undocumented historical knowledge;
+- private interpretation;
+- hidden transitions;
+- unavailable artifacts;
+- implied authority.
 
 ---
 
 ## Constitutional Reconstruction Invariant
 
-Every constitutionally admissible continuity state shall remain reproducible without loss of identity, history, provenance, semantic integrity, or framework independence.
+Every constitutionally continuous state shall be reproducible from recorded history while preserving identity, lineage, provenance, semantics, and constitutional relationships.
