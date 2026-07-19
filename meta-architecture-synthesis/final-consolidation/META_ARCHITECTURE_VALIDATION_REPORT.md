@@ -8,13 +8,13 @@ v1.0.0
 
 ## Purpose
 
-Define validation conditions for the ORYNTH meta-architecture synthesis layer.
+Define validation conditions for the ORYNTH meta-architecture synthesis framework.
 
 ---
 
 ## Validation Principle
 
-Validation confirms that relationships, dependencies, ontology structures, and architecture graph representations remain coherent and traceable.
+Validation confirms that architecture layers, domain models, ecosystem structures, and meta-architectural relationships remain coherent, traceable, and aligned.
 
 ---
 
@@ -22,10 +22,10 @@ Validation confirms that relationships, dependencies, ontology structures, and a
 
 Includes:
 
-- relationship validation;
-- dependency validation;
-- ontology validation;
-- graph validation;
+- layer convergence validation;
+- meta-model validation;
+- ecosystem architecture validation;
+- reference architecture validation;
 - continuity validation.
 
 ---
@@ -33,23 +33,23 @@ Includes:
 ## Validation Lifecycle
 
 
-REVIEW ARCHITECTURE STRUCTURE
+REVIEW ARCHITECTURE LAYERS
 
 ↓
 
-VERIFY RELATIONSHIPS
+VERIFY CROSS-DOMAIN RELATIONSHIPS
 
 ↓
 
-ASSESS DEPENDENCIES
+ASSESS META-MODEL COHERENCE
 
 ↓
 
-CONFIRM SEMANTIC CONSISTENCY
+CONFIRM ECOSYSTEM ALIGNMENT
 
 ↓
 
-VALIDATE GRAPH COMPLETENESS
+VALIDATE CONTINUITY
 
 ↓
 
@@ -60,4 +60,4 @@ PRESERVE RESULT
 
 ## Principle
 
-Meta-architecture validation ensures the unified architecture representation remains structured and reviewable.
+Meta-architecture validation ensures ORYNTH synthesis remains structurally coherent and evolution-ready.
