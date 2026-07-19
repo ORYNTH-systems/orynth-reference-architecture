@@ -30,8 +30,6 @@ Includes:
 ---
 
 ## Completion Lifecycle
-
-
 CONVERGE ARCHITECTURE LAYERS
 
 ↓
