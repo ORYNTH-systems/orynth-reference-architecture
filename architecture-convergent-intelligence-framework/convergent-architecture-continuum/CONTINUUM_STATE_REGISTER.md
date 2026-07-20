@@ -1,4 +1,4 @@
-﻿# Convergent Continuum State Register
+﻿# Convergent Architecture State Register
 
 Version:
 
@@ -8,13 +8,13 @@ v1.0.0
 
 ## Purpose
 
-Define the registry structure used to track convergent architecture continuum states, convergence transitions, validation outcomes, and preserved lineage.
+Define the registry structure used to track convergent architecture states, intelligence relationships, governance transitions, validation conditions, and lineage.
 
 ---
 
 ## State Principle
 
-Continuum states preserve relationships between intelligence convergence conditions, architecture structures, recursive governance transitions, and resulting configurations.
+Convergent architecture states preserve relationships between intelligence layers, architectural structures, governance mechanisms, and resulting unified configurations.
 
 ---
 
@@ -22,13 +22,12 @@ Continuum states preserve relationships between intelligence convergence conditi
 
 Includes:
 
-- continuum identity;
-- intelligence convergence state;
-- architecture convergence state;
-- governance condition;
-- transition history;
+- convergence identity;
+- constitutional state;
+- intelligence architecture states;
+- integration condition;
+- governance state;
 - validation status;
-- resulting architecture state;
 - historical lineage.
 
 ---
@@ -36,19 +35,19 @@ Includes:
 ## State Lifecycle
 
 
-CREATE CONTINUUM RECORD
+CREATE CONVERGENT ARCHITECTURE RECORD
 
 ↓
 
-CAPTURE CONVERGENT STATE
+CAPTURE SYSTEM STATES
 
 ↓
 
-MAP INTELLIGENCE–ARCHITECTURE RELATIONSHIPS
+MAP INTELLIGENCE RELATIONSHIPS
 
 ↓
 
-ANALYZE TRANSITION CONDITIONS
+EVALUATE CONVERGENCE
 
 ↓
 
@@ -56,7 +55,7 @@ VALIDATE CONTINUITY
 
 ↓
 
-REGISTER CONTINUUM STATE
+REGISTER ARCHITECTURE STATE
 
 ↓
 
@@ -67,4 +66,4 @@ PRESERVE HISTORY
 
 ## Principle
 
-A convergent continuum state register maintains traceability between ORYNTH intelligence convergence structures and their persistent architecture evolution.
+A convergent architecture state register maintains traceability between ORYNTH intelligence evolution and unified architectural continuity.
