@@ -1,4 +1,4 @@
-﻿# Integrated Continuum State Register
+﻿# Integrated Architecture State Register
 
 Version:
 
@@ -8,13 +8,13 @@ v1.0.0
 
 ## Purpose
 
-Define the registry structure used to track integrated architecture continuum states, integration transitions, validation outcomes, and preserved lineage.
+Define the registry structure used to track integrated architecture states, intelligence relationships, governance transitions, validation conditions, and lineage.
 
 ---
 
 ## State Principle
 
-Continuum states preserve relationships between intelligence integration conditions, architecture structures, recursive governance transitions, and resulting integrated configurations.
+Integrated architecture states preserve relationships between intelligence systems, operational structures, governance mechanisms, and resulting unified configurations.
 
 ---
 
@@ -22,13 +22,12 @@ Continuum states preserve relationships between intelligence integration conditi
 
 Includes:
 
-- continuum identity;
-- intelligence integration state;
-- architecture integration state;
+- integrated architecture identity;
+- constitutional state;
+- intelligence component states;
+- operational coordination state;
 - governance condition;
-- transition history;
 - validation status;
-- resulting architecture state;
 - historical lineage.
 
 ---
@@ -36,19 +35,19 @@ Includes:
 ## State Lifecycle
 
 
-CREATE CONTINUUM RECORD
+CREATE INTEGRATED ARCHITECTURE RECORD
 
 ↓
 
-CAPTURE INTEGRATED STATE
+CAPTURE SYSTEM CONDITIONS
 
 ↓
 
-MAP INTELLIGENCE–ARCHITECTURE RELATIONSHIPS
+MAP INTELLIGENCE RELATIONSHIPS
 
 ↓
 
-ANALYZE TRANSITION CONDITIONS
+EVALUATE OPERATIONAL STATE
 
 ↓
 
@@ -56,7 +55,7 @@ VALIDATE CONTINUITY
 
 ↓
 
-REGISTER CONTINUUM STATE
+REGISTER ARCHITECTURE STATE
 
 ↓
 
@@ -67,4 +66,4 @@ PRESERVE HISTORY
 
 ## Principle
 
-An integrated continuum state register maintains traceability between ORYNTH intelligence integration structures and their persistent architecture evolution.
+An integrated architecture state register maintains traceability between ORYNTH intelligence evolution and unified operational continuity.

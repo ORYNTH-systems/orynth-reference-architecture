@@ -14,7 +14,7 @@ Define the complete integrated intelligence state of ORYNTH architecture.
 
 ## Reference Principle
 
-The complete integrated intelligence state represents the integration of intelligence integration modeling, architecture–intelligence mapping, recursive governance, and continuum preservation.
+The complete integrated intelligence state represents the operational convergence of constitutional architecture, intelligence evolution, synthesis, meta-intelligence, universal intelligence, transcendent intelligence, convergent intelligence, and integrated operation.
 
 ---
 
@@ -22,29 +22,49 @@ The complete integrated intelligence state represents the integration of intelli
 
 Includes:
 
-- unified intelligence integration modeling;
-- architecture–intelligence integration mapping;
-- recursive integration governance;
-- integrated architecture continuum.
+- intelligence capability evolution;
+- unified intelligence synthesis;
+- meta-intelligence architecture;
+- universal intelligence modeling;
+- transcendent intelligence modeling;
+- convergent intelligence governance;
+- integrated intelligence operation;
+- integrated architecture continuity.
 
 ---
 
 ## Complete Integrated Intelligence Flow
 
 
-ORYNTH ARCHITECTURE ECOSYSTEM
+ORYNTH CONSTITUTIONAL ARCHITECTURE
 
 ↓
 
-UNIFIED INTELLIGENCE INTEGRATION
+INTELLIGENCE CAPABILITY EVOLUTION
 
 ↓
 
-ARCHITECTURE–INTELLIGENCE INTEGRATION
+UNIFIED INTELLIGENCE SYNTHESIS
 
 ↓
 
-RECURSIVE INTEGRATION GOVERNANCE
+META-INTELLIGENCE ARCHITECTURE
+
+↓
+
+UNIVERSAL INTELLIGENCE MODELING
+
+↓
+
+TRANSCENDENT INTELLIGENCE MODELING
+
+↓
+
+CONVERGENT INTELLIGENCE GOVERNANCE
+
+↓
+
+INTEGRATED INTELLIGENCE OPERATION
 
 ↓
 
@@ -52,15 +72,11 @@ INTEGRATED ARCHITECTURE CONTINUUM
 
 ↓
 
-VALIDATED INTEGRATED STATE
-
-↓
-
-ONGOING ARCHITECTURE EVOLUTION
+UNIFIED OPERATIONAL INTELLIGENCE ARCHITECTURE
 
 
 ---
 
 ## Principle
 
-The complete integrated intelligence state provides ORYNTH architecture with a persistent model for coordinated intelligence operation across interconnected systems.
+The complete integrated intelligence state defines ORYNTH as a continuity-preserving architecture capable of coordinating evolving intelligence systems through governed integration.

@@ -14,7 +14,7 @@ Define validation conditions for the ORYNTH Integrated Intelligence Framework.
 
 ## Validation Principle
 
-Validation confirms that intelligence integration modeling, architecture–intelligence mapping, recursive governance, and continuum preservation operate as an integrated architecture capability.
+Validation confirms that intelligence integration, recursive governance, operational coordination, and architectural continuity function as a coherent unified system.
 
 ---
 
@@ -22,37 +22,39 @@ Validation confirms that intelligence integration modeling, architecture–intel
 
 Includes:
 
-- intelligence integration integrity;
-- architecture relationship quality;
-- governance coherence;
-- continuity preservation;
-- cross-domain traceability;
-- semantic integrity;
+- integration integrity;
+- architecture coherence;
+- intelligence relationship preservation;
+- operational coordination;
+- constitutional alignment;
+- governance validity;
+- semantic continuity;
 - provenance;
-- evolutionary readiness.
+- validation evidence;
+- historical lineage.
 
 ---
 
 ## Validation Lifecycle
 
 
-REVIEW INTEGRATED INTELLIGENCE FRAMEWORK
+REVIEW INTEGRATED FRAMEWORK
 
 ↓
 
-VERIFY INTELLIGENCE INTEGRATION MODEL
+VERIFY INTELLIGENCE RELATIONSHIPS
 
 ↓
 
-VALIDATE ARCHITECTURE–INTELLIGENCE RELATIONSHIPS
+VALIDATE ARCHITECTURAL COORDINATION
 
 ↓
 
-CONFIRM RECURSIVE INTEGRATION GOVERNANCE
+CONFIRM RECURSIVE GOVERNANCE
 
 ↓
 
-ASSESS INTEGRATED CONTINUITY
+ASSESS CONTINUITY CONDITIONS
 
 ↓
 
@@ -63,4 +65,4 @@ PRESERVE VALIDATION RECORD
 
 ## Principle
 
-Integrated intelligence validation ensures ORYNTH architecture evolves through coordinated intelligence integration while maintaining integrity, traceability, and continuity.
+Integrated intelligence validation ensures ORYNTH maintains coordinated intelligence operation while preserving accountability, traceability, and continuity.
