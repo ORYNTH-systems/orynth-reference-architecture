@@ -14,7 +14,7 @@ Define final validation conditions for the Morning Star evolution framework.
 
 ## Validation Principle
 
-Validation confirms that future architectural growth remains compatible with the certified reference state.
+Evolution validation confirms that architectural transformation remains connected to originating principles, governance requirements, evidence, and continuity records.
 
 ---
 
@@ -22,9 +22,9 @@ Validation confirms that future architectural growth remains compatible with the
 
 Includes:
 
-- discovery validation;
-- capability validation;
-- integration validation;
+- evolution state validation;
+- transformation validation;
+- governance validation;
 - continuity validation.
 
 ---
@@ -32,23 +32,27 @@ Includes:
 ## Validation Lifecycle
 
 
-EVOLUTION PROPOSED
+EVOLUTION MODEL DEFINED
 
 ↓
 
-IMPACT EVALUATED
+SOURCE STATE VERIFIED
 
 ↓
 
-CAPABILITY INTEGRATED
+TRANSFORMATION PATH REVIEWED
 
 ↓
 
-CONTINUITY VERIFIED
+GOVERNANCE CONDITIONS CONFIRMED
 
 ↓
 
-SUCCESSOR STATE VALIDATED
+FUTURE STATE VALIDATED
+
+↓
+
+EVOLUTION LINEAGE PRESERVED
 
 
 ---
@@ -56,24 +60,21 @@ SUCCESSOR STATE VALIDATED
 ## Validation Result
 
 
-FUTURE DISCOVERY:
+EVOLUTION STATES:
 VALIDATED
 
-CAPABILITY EXPANSION:
+TRANSFORMATION COORDINATION:
 VALIDATED
 
-FRAMEWORK INTEGRATION:
+EVOLUTION GOVERNANCE:
 VALIDATED
 
 EVOLUTION CONTINUITY:
 CONFIRMED
-
-NEXT GENERATION STATE:
-READY
 
 
 ---
 
 ## Principle
 
-Evolution validation ensures future architecture remains connected to its certified origin.
+Evolution validation ensures architectural growth remains controlled, explainable, and traceable.
